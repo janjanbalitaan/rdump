@@ -1,0 +1,6 @@
+[
+    "application/json",
+    "application/x-www-form-urlencoded",
+    "multipart/form-data",
+    "application/x-url-encoded"
+]
